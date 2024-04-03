@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineJobPortal", "OnlineJobPortal\OnlineJobPortal.csproj", "{4D61816A-EAA5-4E70-8B65-253154CD5974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D61816A-EAA5-4E70-8B65-253154CD5974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D61816A-EAA5-4E70-8B65-253154CD5974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D61816A-EAA5-4E70-8B65-253154CD5974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D61816A-EAA5-4E70-8B65-253154CD5974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DDA0F49-15EC-4AC6-8D22-5073B28C7E41}
+	EndGlobalSection
+EndGlobal
